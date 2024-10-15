@@ -1,4 +1,8 @@
 # IZIezBiBot
-Easy IZI biped robot
+IZI easy Biped roBot
 
-In this project i used SG90 180º servomotor, PCA9685 and K Line for the strocture of the project 
+In this project i used:
+·Arduino uno,
+·SG90 180º servomotor,
+·PCA9685,
+·K Line for the strocture of the project.
