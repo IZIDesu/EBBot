@@ -1,4 +1,4 @@
-# IZIezBiBot
+# E.B.Bot
 IZI easy Biped roBot
 
 In this project i used:  
