@@ -53,19 +53,21 @@ Speaker Suport/Space
 Microfone Suport/Space
 
 ##### Legs/arms:
-<div style="color: red; font-weight: bold;">info:</div>
+<div style="color: red; font-weight: bold;">info:</div>  
 i need to make the joints far eneugh to make the servo rotate like our leg and make the close possible to make it light to make all the servos move well and to make the servos do less strength possible to consume less power. create the center of mass in the midle is important! create a perfect stability betwen the legs and in all joints to the foot/legs/Torso. create the leg with 4 servos to simulate partial of our leg moviments (knee joint/hip joint/leg rotation along with Z axis/leg rotation along with X/Y axis).
 
-~~DC Motor~~                        <- too complicate
+~~DC Motor~~                  <- too complicate
 ~~hall effect sensor Suport~~ <- too complicate
 Servo Suport/space
 
 
 #### Foot:
-<div style="color: red; font-weight: bold;">info:</div>
-I need to make the center mass more in one side than the other to make force to move the robot and to make the robot stable on the ground.
-**Format:**
-~~DC Motor~~
+<div style="color: red; font-weight: bold;">info:</div>  
+I need to make the center mass more in one side than the other to make force to move the robot and to make the robot stable on the ground.  
+
+**Format**
+
+~~DC Motor~~ 
 ~~hall effect sensor Suport~~ <- too complicate
 Servo Suport/space
 
