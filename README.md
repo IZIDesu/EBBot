@@ -6,9 +6,11 @@ The objective of this project is to create a bipedal robot, that can be controll
 <div style="color: red; font-weight: bold;">info:</div>
 To be honest i just have arduino uno, so i just use arduino uno bc i have one already... and i dont realy know how to chose one acordly with what i need...
 
-Arduino Uno 
-~~Arduino Mega~~
-~~ESP32~~
+Arduino Uno  
+~~Arduino Mega~~  
+~~ESP32~~  
+~~Raspberry pi~~
+
 
 PWM controller -> PCA9685 -> adafruit device
 
